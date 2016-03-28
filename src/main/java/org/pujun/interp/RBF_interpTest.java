@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 
 /**
- * Created by milletpu on 16/3/16.
+ * Created by milletpu on 16/3/16. hehe
  *
  *
  * x[][] is the original data point coordinate while y[] is the corresponding value.
