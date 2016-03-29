@@ -14,7 +14,6 @@ import java.util.*;
  * x[][] is the original data point coordinate while y[] is the corresponding value.
  * pt[] is a point to be interpolated.
  *
-
  */
 public class RBF_interpTest {
     protected static long startTimeStamp, endTimeStamp;
