@@ -12,7 +12,6 @@ import java.util.SimpleTimeZone;
 /**
  * Created by milletpu on 15/3/25.
  *
- *
  */
 public class InterpMeteo {
     private double[][] spdPoints;
